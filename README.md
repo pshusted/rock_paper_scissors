@@ -1,0 +1,1 @@
+I'm just a basic rock paper scissors game. open the html and use the console to see the results of game()

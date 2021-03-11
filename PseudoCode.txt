@@ -1,0 +1,4 @@
+Webpage asks user to select "Rock" "Paper" or "Scissors"
+Determine computer's selection of above choices
+Determine winner of round and display results
+tabulate the score
